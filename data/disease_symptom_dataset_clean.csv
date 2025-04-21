@@ -1,0 +1,4 @@
+Fever,Headache,Nausea,Fatigue,Cough,Body Pain,Disease
+1,0,1,1,0,1,Malaria
+0,1,0,1,1,0,Typhoid
+1,1,0,0,0,0,Dengue
